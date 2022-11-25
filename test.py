@@ -6,7 +6,7 @@ ip = '192.168.0.232'
 port = 50001
 
 #데이터 수신 함수
-#데이터 수신 함수#데이터 수신 함수#데이터 수신 함수#데이터 수신 함수
+
 
 def receive(client_socket):
     state = True
