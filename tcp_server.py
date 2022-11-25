@@ -5,6 +5,10 @@ ip = 'localhost'
 port = 50001
 
 #소켓 객체 생성
+#소켓 객체 생성
+
+#소켓 객체 생성
+
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 #소켓 주소 정보 할당
