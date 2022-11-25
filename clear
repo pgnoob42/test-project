@@ -1,0 +1,35 @@
+[33mcommit 917a6697ca594e922ab468361575f410f1851f97[m[33m ([m[1;36mHEAD -> [m[1;32mdeveloper1[m[33m)[m
+Author: pgnoob42 <dsak45y7@gmail.com>
+Date:   Fri Nov 25 10:49:59 2022 +0900
+
+    branch test
+
+[33mcommit 0c0bd9ea214547f7b0032b07b80360f37ff92070[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mdeveloper2[m[33m)[m
+Author: pgnoob42 <117587947+pgnoob42@users.noreply.github.com>
+Date:   Fri Nov 25 10:31:59 2022 +0900
+
+    [Server Update]
+
+[33mcommit 7d1528669835db8c0257fc1759c2d0b116631f9a[m
+Author: pgnoob42 <dsak45y7@gmail.com>
+Date:   Fri Nov 25 10:27:19 2022 +0900
+
+    update
+
+[33mcommit 20b645519e8a56ce8382daec0fee906e6a4982c7[m
+Author: pgnoob42 <dsak45y7@gmail.com>
+Date:   Thu Nov 24 12:33:07 2022 +0900
+
+    update
+
+[33mcommit e6e50e7ba07c2b1994ede5899e6de04465e73ad8[m
+Author: pgnoob42 <dsak45y7@gmail.com>
+Date:   Thu Nov 24 12:28:23 2022 +0900
+
+    TCP 테스트
+
+[33mcommit 92567e70b4844073d11a72c2df283fba233f0036[m
+Author: pgnoob42 <117587947+pgnoob42@users.noreply.github.com>
+Date:   Thu Nov 24 12:10:12 2022 +0900
+
+    Initial commit
