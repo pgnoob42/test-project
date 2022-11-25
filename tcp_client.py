@@ -7,7 +7,7 @@ port = 50001
 
 #데이터 수신 함수
 #데이터 수신 함수
-#데이터 수신 함수
+#데이터 수신 함수#이모티콘 기능 추
 def receive(client_socket):
     state = True
 
